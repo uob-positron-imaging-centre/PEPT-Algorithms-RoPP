@@ -4,12 +4,12 @@
 # PEPT-Algorithms-RoPP
 Jupyter Notebooks illustrating different PEPT algorithms for the "PEPT: A Comparative Review" paper, commissioned by the Reports on Progress in Physics journal. All notebooks have live versions on Google Colab:
 
-- The Birmingham Method: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uob-positron-imaging-centre/PEPT-Algorithms-RoPP/blob/main/BirminghamMethod_RoPP.ipynb)
-- PEPT-ML: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](hhttps://colab.research.google.com/github/uob-positron-imaging-centre/PEPT-Algorithms-RoPP/blob/main/PEPTML_RoPP.ipynb)
-- Feature Point Identification (FPI): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](hhttps://colab.research.google.com/github/uob-positron-imaging-centre/PEPT-Algorithms-RoPP/blob/main/FPI_RoPP.ipynb)
-- G-Means: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](hhttps://colab.research.google.com/github/uob-positron-imaging-centre/PEPT-Algorithms-RoPP/blob/main/GMeans_RoPP.ipynb)
-- Spherical Density Method (SDM): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](hhttps://colab.research.google.com/github/uob-positron-imaging-centre/PEPT-Algorithms-RoPP/blob/main/SDM_RoPP.ipynb)
-- Line Density Method: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](hhttps://colab.research.google.com/github/uob-positron-imaging-centre/PEPT-Algorithms-RoPP/blob/main/LineDensity_RoPP.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uob-positron-imaging-centre/PEPT-Algorithms-RoPP/blob/main/BirminghamMethod_RoPP.ipynb) The Birmingham Method
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](hhttps://colab.research.google.com/github/uob-positron-imaging-centre/PEPT-Algorithms-RoPP/blob/main/PEPTML_RoPP.ipynb) PEPT-ML
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](hhttps://colab.research.google.com/github/uob-positron-imaging-centre/PEPT-Algorithms-RoPP/blob/main/FPI_RoPP.ipynb) Feature Point Identification (FPI)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](hhttps://colab.research.google.com/github/uob-positron-imaging-centre/PEPT-Algorithms-RoPP/blob/main/GMeans_RoPP.ipynb) G-Means
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](hhttps://colab.research.google.com/github/uob-positron-imaging-centre/PEPT-Algorithms-RoPP/blob/main/SDM_RoPP.ipynb) Spherical Density Method (SDM)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](hhttps://colab.research.google.com/github/uob-positron-imaging-centre/PEPT-Algorithms-RoPP/blob/main/LineDensity_RoPP.ipynb) Line Density Method
 
 # Licensing
 
