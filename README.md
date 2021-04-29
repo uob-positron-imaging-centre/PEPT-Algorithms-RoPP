@@ -10,7 +10,7 @@ Jupyter Notebooks illustrating different PEPT algorithms for the "PEPT: A Compar
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uob-positron-imaging-centre/PEPT-Algorithms-RoPP/blob/main/GMeans_RoPP.ipynb) G-Means
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uob-positron-imaging-centre/PEPT-Algorithms-RoPP/blob/main/SDM_RoPP.ipynb) Spherical Density Method (SDM)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uob-positron-imaging-centre/PEPT-Algorithms-RoPP/blob/main/LineDensity_RoPP.ipynb) Line Density Method
-- - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uob-positron-imaging-centre/PEPT-Algorithms-RoPP/blob/main/PEPT-EM_RoPP.ipynb) PEPT-EM
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uob-positron-imaging-centre/PEPT-Algorithms-RoPP/blob/main/PEPT-EM_RoPP.ipynb) PEPT-EM
 
 # Licensing
 
